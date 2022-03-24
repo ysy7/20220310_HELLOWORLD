@@ -24,4 +24,8 @@
         h2~h3{   /*h2 형제 중 여러 h3*/
             font-size: 40px ;
         }
-    
+        body>ul:nth-child(2){
+            /* 찾는 요소 우클릭> 검사 >개발자도구 > 우클릭 >copy>카피셀렉터 */
+                background-color: hotpink
+        }
+        
