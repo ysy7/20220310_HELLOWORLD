@@ -10,7 +10,7 @@
             color:rgb(177, 207, 193);
         }
         #leader {
-            color:violet;
+            color:rgb(97, 67, 97);
         }
         li:nth-child(4){    /* 1부터 시작 */
             text-decoration: underline;
